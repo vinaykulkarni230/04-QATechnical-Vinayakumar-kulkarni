@@ -1,0 +1,16 @@
+mail to : project manager
+
+
+Hi Joanna,
+
+This is Vinayakumar.
+
+
+	from  the above question there is no sufficient information about
+ the end user or like test data to test the software or application. if you
+provide test data i acn proceeed to next step of testing phases.
+
+Thank you
+
+Regards
+Vinayakumar.
